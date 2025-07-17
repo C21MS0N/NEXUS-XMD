@@ -1,7 +1,7 @@
 {
-  "name": "NEXUS-XMD",
+  "name": "Kurimuzon♦️",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By Pkdriller",
+  "description": "A WhatsApp Bot Created By 『ƈʀɨʍֆօռ♦』",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name NEXUS-XMD",
